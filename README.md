@@ -13,5 +13,5 @@ HealthWebMapper1.5 serves as a prototype of HealthWebMapper2 and it will be used
 
 # How to reuse HealthWebMapper
 
-example: Southern California Cancer Geospatial Modelling Viewer
+Example: [Southern California Cancer Geospatial Modelling Viewer](https://github.com/HDMA-SDSU/HealthWebMapper1.5/tree/master/HealthWebMapper_reuse_GWR_modelling)
 <img src="https://github.com/haihonghuang/HealthWebMapper2/blob/master/images/GWR_demo_screenshots.png" alt="/GWR_demo_screenshot"/>
