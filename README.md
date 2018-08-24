@@ -5,7 +5,9 @@ HealthWebMapper1.5 is a new version of [HealthWebMapper1.0](https://github.com/H
 1. Basemaps switcher (Black&White, Terrain, OpenStreetMap, World Imagery, National Geographic Map)
 2. Overlayer switcher (Hospitals, Freeways, Moores Cancer Center, Labels)
 
-<img src="https://github.com/haihonghuang/HealthWebMapper2/blob/master/images/layer_switcher_screenshots.png" alt="layer_switcher_screenshots" height="400" width="500"/>
+<img src="https://github.com/HDMA-SDSU/HealthWebMapper1.5/blob/master/images/HealthWebMapper1.5-screenshot-1.png" alt="HealthWebMapper1.5-screenshot-1" height="400" width="500"/>
+
+<img src="https://github.com/HDMA-SDSU/HealthWebMapper1.5/blob/master/images/HealthWebMapper1.5-screenshot-2.png" alt="HealthWebMapper1.5-screenshot-2" height="400" width="500"/>
 
 
 # How to reuse HealthWebMapper
