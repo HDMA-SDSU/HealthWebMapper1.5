@@ -1,6 +1,9 @@
 # HealthWebMapper(version 1.5)
 
-HealthWebMapper1.5 is a new version of [HealthWebMapper1.0](https://github.com/HDMA-SDSU/HealthWebMapper) with the following new features:
+HealthWebMapper1.5 is a new version of [HealthWebMapper1.0](https://github.com/HDMA-SDSU/HealthWebMapper) developed using 
+* Leaflet 1.3 with customized Leaflet.css
+
+HealthWebMapper1.5 keeps the orignial features of HealthWebMapper1.0 and includes the following new features:
 
 1. Basemaps switcher (Black&White, Terrain, OpenStreetMap, World Imagery, National Geographic Map)
 2. Overlayer switcher (Hospitals, Freeways, Moores Cancer Center, Labels)
