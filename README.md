@@ -7,7 +7,6 @@ HealthWebMapper1.5 is a new version of [HealthWebMapper1.0](https://github.com/H
 
 <img src="https://github.com/haihonghuang/HealthWebMapper2/blob/master/images/layer_switcher_screenshots.png" alt="layer_switcher_screenshots" height="400" width="500"/>
 
-HealthWebMapper1.5 serves as a prototype of HealthWebMapper2 and it will be used to test and improve the original program.
 
 # How to reuse HealthWebMapper
 
