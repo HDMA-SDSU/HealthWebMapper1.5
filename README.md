@@ -8,6 +8,7 @@ HealthWebMapper1.5 is a new version of [HealthWebMapper1.0](https://github.com/H
 <img src="https://github.com/HDMA-SDSU/HealthWebMapper1.5/blob/master/images/HealthWebMapper1.5-screenshot-1.png" alt="HealthWebMapper1.5-screenshot-1" height="400" width="500"/>
 
 <img src="https://github.com/HDMA-SDSU/HealthWebMapper1.5/blob/master/images/HealthWebMapper1.5-screenshot-2.png" alt="HealthWebMapper1.5-screenshot-2" height="400" width="500"/>
+
 * HealthWebMapper1.5 can be run in your local machine: download ZIP and open index-v1.5.html in your browser
 * [Technical document for the new features](https://github.com/HDMA-SDSU/HealthWebMapper1.5/blob/master/HealthWebMapper1.5-Technical-Document.pdf)
 
